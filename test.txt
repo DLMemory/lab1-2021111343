@@ -1,0 +1,4 @@
+We construct a three-country model to determine how the formation of free trade areas (FTAs) affects optimal tariffs and welfare. 
+We find that,at constant rest of the world (ROW) tariffs,the adoption of internal free trade induces union members 
+to reduce their external tariffs below the Kemp–Wan@[J. Int. Econom. 6 (1976) 95–97 ] level,~
+and causes ROW’s terms of trade to improve and its welfare to rise.
